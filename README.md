@@ -1,6 +1,6 @@
 # Sample React Started With Tailwind, React-i18next , TypeScript and React-router-dom.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). (ps: i know people at react don't recomment create-react-app any more but this is just a sample template with some stack that i think make react more easy to use)
 
 ## Available Scripts
 
