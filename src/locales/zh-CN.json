@@ -1,3 +1,5 @@
 {
-    "page.test.open": "你好呀"
-  }
+  "page.i8n.title": "使用 react-i18next 实现多语言支持...",
+  "page.i8n.context": "以上代码片段展示了如何使用 react-i18next 添加多语言支持。\n要添加更多项目，您可以通过进入 locales 文件夹选择一个语言文件并在其中添加更多项目。",
+  "component.change.language": "点击此处将语言更改为 {{Lang}}"
+}

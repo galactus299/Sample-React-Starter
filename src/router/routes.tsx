@@ -1,7 +1,8 @@
 import React from "react"
 import {Route, Routes} from 'react-router-dom'
-import BasicLayout from "../BasicLayout";
-import Home from "../home";
+import BasicLayout from "../components/basic-layout";
+import Home from "../pages/home";
+import NavigateExample from "../pages/navigate-example";
 
 const SwitchRoutes = () => {
 
@@ -10,6 +11,7 @@ const SwitchRoutes = () => {
             <Routes>
                 <Route path='/' element={<BasicLayout/>}>
                     <Route path='/' element={<Home/>}/>
+                    <Route path='/navigate-example' element={<NavigateExample/>}/>
                 </Route>
             </Routes>
         </React.Suspense>

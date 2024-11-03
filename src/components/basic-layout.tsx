@@ -4,6 +4,7 @@ const BasicLayout = () => {
     return (
         <div>
             <Outlet />
+
         </div>
     );
 };

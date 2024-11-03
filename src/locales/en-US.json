@@ -1,3 +1,9 @@
 {
-  "page.test.open": "hi there"
+  "page.i8n.title": "Using the react-i18next for multi language support ...",
+  "page.i8n.context": "The above code snippet is used to display how to use the react-i18next for adding multilanguage support. \n To add more items you can more items to the locales by goint to the locales folder then selecting a locale file and adding more items there",
+"component.change.language":"Click here to change language to {{Lang}}",
+  "component.check.out.navigation": "Check out how to use navigation",
+  "page.navigation.title": "How to add new routes to the app",
+  "page.navigation.context": "The above code snippet shows how you can add a new page route to the app. In the routes folder open the routes.tsx file and follow the above pattern ",
+"component.check.out.translation": "Check out how to use react-i18next"
 }
